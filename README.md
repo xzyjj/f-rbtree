@@ -1,6 +1,8 @@
 # f-rbtree
 
-    The code of rb-tree comes from the libf library implementation.
+  f-rbtree is an implementation of a red-black self-balancing binary tree.
+
+  > This code comes from the libf library.
 
 ## licenses
 
